@@ -1,2 +1,1 @@
-# Hello-git
-first repository on git and first step in it field
+hi this is first branch and pull request (PR) raised for Hello-git reposory
